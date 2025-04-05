@@ -1,0 +1,2 @@
+# AutoTrend BlogAI
+
